@@ -1,0 +1,2 @@
+img_id,gt_lat,predicted_lat,gt_long,predicted_long,great_circle_distance,url,available,author,license_id,license_name,license_url
+348532716_5a2b306c86_136_98767940@N00.jpg,17.129307,32.690517,-89.065818,-16.857754,7352.16,https://github.com/fhebngndsg/thefunny/blob/main/index.jpg,1,c.pommier,0,All Rights Reserved,
